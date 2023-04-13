@@ -7,7 +7,10 @@ Graduated,Kubernetes,Christoph Blecker,Red Hat,cblecker,https://git.k8s.io/steer
 ,,Benjamin Elder,Google,BenTheElder,
 ,,Nabarun Pal,VMware,palnabarun,
 ,Kubernetes: SIG Contributor Experience (non-voting),Josh Berkus,Red Hat,jberkus,https://git.k8s.io/community/sig-contributor-experience#leadership
+,,Kaslin Fields,Google,kaslin,
+,,Madhav Jivrajani,VMware,MadhavJivrajani,
 ,,Nikhita Raghunath,VMware,nikhita,
+,,Priyanka Saggu,SUSE,Priyankasaggu11929,
 ,Kubernetes: SIG K8s Infra (non-voting),Arnaud Meukam,VMware,ameukam,https://git.k8s.io/community/sig-k8s-infra#leadership
 ,,Aaron Crickenberger,Google,spiffxp,
 ,,Davanum Srinivas,AWS,dims,
@@ -45,17 +48,16 @@ Graduated,Envoy,Matt Klein,Lyft,mattklein123,https://github.com/envoyproxy/envoy
 ,,Lizan Zhou,Google,lizan,
 ,,Snow Pettersen,,snowp,
 ,,Greg Greenway,Apple,ggreenway,
-,,Asra Ali,Google,asraa,
 ,,Yan Avlasov,Google,yanavlasov,
-,,Jose Nino,Lyft,junr03,
-,,Dhi Aurrahman,Tetrate,dio,
-,,Joshua Marantz,Google,jmarantz,
 ,,Ryan Northey,CNCF,phlax,
-,,William A Rowe Jr,VMware,wrowe,
-,,Antonio Vicente,Google,antoniovicente,
-,,Sotiris Nanopoulos,Microsoft,davinci26,
-,,Dmitry Rozhkov,Intel,rojkov,
 ,,Ryan Hamilton,Google,RyanTheOptimist,
+,,Joshua Marantz,Google,jmarantz,
+,,Adi Peleg,Google,adisuissa,
+,,Kevin Baichoo,Google,KBaichoo,
+,,Baiping Wang,NetEase,wbpcode,
+,,Keith Smiley,Lyft,keith,
+,,Kuat Yessenov,Google,kyessenov,
+,,Raven Black,Dropbox,ravenblackx,
 ,,,,,
 Graduated,CoreDNS,Chris O'Haver,Infoblox,chrisohaver,https://github.com/coredns/coredns/blob/master/CODEOWNERS
 ,,John Belamaric,Google,johnbelamaric,
@@ -251,12 +253,11 @@ Graduated,Harbor,Daniel Jiang,VMware,reasonerjt,https://github.com/goharbor/comm
 ,,Vadim Bauer,8gears,Vad1mo,
 ,Harbor: SIG Community,Orlin Vasilev,VMware,OrlinVasilev,
 ,Harbor: SIG Docs,Abigail McCarthy,VMware,a-mccarthy,
-Graduated,etcd,Benjamin Wang,WMware,ahrtr,https://github.com/etcd-io/etcd/blob/master/MAINTAINERS
+Graduated,etcd,Benjamin Wang,VMware,ahrtr,https://github.com/etcd-io/etcd/blob/main/MAINTAINERS
 ,,Hitoshi Mitake,,mitake,
 ,,Marek Siarkowicz,Google,serathius,
 ,,Piotr Tabor,Google,ptabor,
 ,,Sahdev Zala,IBM,spzala,
-,,Sam Batschelet,Red Hat,hexfusion,
 Graduated,Open Policy Agent,Tim Hinrichs,Styra,timothyhinrichs,https://github.com/open-policy-agent/opa/blob/master/MAINTAINERS.md
 ,,Torin Sandall,Styra,tsandall,
 ,,Ashutosh Narkar,Styra,ashutosh-narkar,
@@ -530,7 +531,7 @@ Incubating,Keptn,Alois Reitbauer,Dynatrace,AloisReitbauer,https://github.com/kep
 ,,Moritz Wiesinger,Dynatrace,mowies,
 ,,Anna Reale,Dynatrace,RealAnna,
 ,,Ondrej Dubaj,Dynatrace,odubajDT,
-,,Oleg Nenashev,Dynatrace,oleg-nenashev,
+,,Oleg Nenashev,WireMock Inc,oleg-nenashev,
 ,,Thomas Schuetz,Dynatrace,thschue,
 ,,Brad McCoy,Basiq,bradmccoydev,
 ,,David Hirsch, Dynatrace, DavidPHirsch,
@@ -842,6 +843,7 @@ Incubating,Cilium,Aditi Ghag,Isovalent,aditighag,https://github.com/cilium/ciliu
 ,,Kornilios Kourtis,Isovalent,kkourt,
 ,,Laurent Bernaille,Datadog,lbernail,
 ,,Liz Rice,Isovalent,lizrice,
+,,Lorenz Bauer,Isovalent,lmb, 
 ,,Louis DeLosSantos,Isovalent,ldelossa,
 ,,Maciej Kwiek,Isovalent,nebril,
 ,,Martynas Pumputis,Isovalent,brb,
@@ -949,11 +951,11 @@ Sandbox,Krator,Taylor Thomas,Microsoft,thomastaylor312,https://github.com/krator
 ,,Matt Fisher,Microsoft,bacongobbler,
 ,,Kevin Flansburg,,kflansburg,
 ,,Matt Butcher,Microsoft,technosophos,
-Sandbox,ORAS (OCI Registry as Storage),Avi Deitcher,,deitch,https://github.com/oras-project/oras/blob/main/OWNERS
-,,Josh Dolitsky,Blood Orange,jdolitsky,
+Sandbox,ORAS (OCI Registry as Storage),Andrew Block,Red Hat,sabre1041,https://github.com/oras-project/community/blob/main/OWNERS.md
 ,,Sajay Antony,Microsoft,sajayantony,
 ,,Shiwei Zhang,Microsoft,shizhMSFT,
 ,,Steve Lasker,Microsoft,stevelasker,
+,,Terry Howe,AWS,TerryHowe,
 Sandbox,wasmCloud,Brooks Townsend,Capital One,brooksmtownsend,https://github.com/wasmCloud/wasmCloud/blob/main/OWNERS
 ,,Liam Randall,Cosmonic,liamrandall,
 ,,Kevin Hoffman,wasmCloud,autodidaddict,
@@ -1169,7 +1171,7 @@ Incubating,Istio: Steering Committee,Ameer Abbas,Google,ameer00,https://github.c
 ,,Rob Cernich,Red Hat,rcernich,
 ,,Iris (Shaojun) Ding,Intel,irisdingbj,
 ,,Cameron Etezadi,Google,cetezadi,
-,,Jainpeng He,Huawei,zirain,
+,,Jianpeng He,Huawei,zirain,
 ,,John Howard,Google,howardjohn,
 ,,Faseela K,Ericsson Software Technology,kfaseela,
 ,,April Kyle Nassi,Google,thisisnotapril,
@@ -1180,6 +1182,7 @@ Incubating,Istio: Steering Committee,Ameer Abbas,Google,ameer00,https://github.c
 ,Istio: Technical Oversight Committee,Mitch Connors,Aviatrix,therealmitchconnors,https://github.com/istio/community/blob/master/TECH-OVERSIGHT-COMMITTEE.md#committee-members
 ,,John Howard,Google,howardjohn,
 ,,Neeraj Poddar,Solo.io,nrjpoddar,
+,,Louis Ryan,Solo.io,louiscryan,
 ,,Lin Sun,Solo.io,linsun,
 ,,Eric Van Norman,IBM,ericvn,
 ,Istio: Working Group Leads,Rama Chavali,Salesforce,ramaraochavali,https://github.com/istio/community/blob/master/WORKING-GROUPS.md#working-group-leads
